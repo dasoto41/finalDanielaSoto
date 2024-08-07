@@ -1,0 +1,21 @@
+get de contenido /contenido
+**get de contenido por el nombre de una categoria /contenido/:categoria
+get de contenido por el titulo /titulo/:titulo
+**get de contenido por el nombre del actor /reparto/:act
+get de trailer de contenido por el id de contenido /trailer/:id
+
+
+------
+post/get/put por cada tabla.
+**get de contenido por el nombre del actor /reparto/:act
+**get de contenido por el nombre de una categoria /contenido/:categoria
+
+
+---
+actor === Maga
+categoria === Dani
+contenido === Ana 
+genero === Dani
+reparto === Maga
+tag === Aye
+tagsDeContenido === Aye
